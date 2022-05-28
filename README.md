@@ -1,6 +1,6 @@
 Just take the file copy pasta it and include it in < script>
 and then\
-"let namethiswhatever = new PlsDontBeDumb()"\
+"let namethiswhatever = new F()"\
 Methods are \
 .subtract(num1,num2) \
 .add(num1,num2)\
